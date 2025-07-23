@@ -53,7 +53,7 @@
                 }
               ],
               "outputHashing": "all",
-              "baseHref": "/angular-todo-app/"
+              "baseHref": "/angular_todo-app/"
 
             },
             "development": {
