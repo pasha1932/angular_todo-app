@@ -1,15 +1,16 @@
 # 📝 Angular Todo App
 
 A simple and responsive todo list application built with Angular 15.  
-Users can add, delete, and mark tasks as completed.  
+Users can add, delete, edit and mark tasks as completed.  
 All tasks are stored in local storage, so they persist between sessions.
 
-🔗 **Live Demo:** (https://julyapetrovskaya.github.io/angular-todo-app/)
+🔗 **Live Demo:** (https://pasha1932.github.io/angular_todo-app/)
 
 ## ✨ Features
 
 - Add new todo items
 - Mark items as completed
+- Edit tasks
 - Delete tasks
 - Local storage support
 - Responsive UI
